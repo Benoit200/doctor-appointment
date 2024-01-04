@@ -38,4 +38,5 @@ const ServiceCard = ({item, index}) =>{
     );
 };
 
+// export default ServiceCard
 export default ServiceCard
